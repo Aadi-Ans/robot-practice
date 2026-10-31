@@ -4,5 +4,6 @@ using namespace std;
 int main(){
     cout << "Robot system started!" << endl;
     cout << "Robot is ready!" <<endl;
-    return 0;
+    cout << "Motor control system initialized!" << endl;
+ return 0;
 }
